@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rainbowlemons
 - 👀 I’m interested in game dev!
-- 🌱 I’m currently learning Godot
+- 🌱 I know Python and I’m currently learning Godot
 - I plan to participate in some game jams and will upload some source code here
 
 <!---
